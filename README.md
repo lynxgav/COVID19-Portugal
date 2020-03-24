@@ -11,7 +11,9 @@ https://www.medrxiv.org/content/10.1101/2020.03.12.20034827v1
 
 The model parameters were chosen to reflect the Portuguese data available from 
 https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/ and coded in Mathematica 10.0.2.0 on Mac OS X El Capitan, 
-Version 10.11.5.
+Version 10.11.5. 
+
+The purpose of the model is to demonstrate that stringent social distancing measures can reduce the number of cases with severe symptoms and give more time for the healthcare system and other government institutions to prepare for controling the epidemic. Note that in future, when more data become available, the parameters of the model should be estimated using e.g. Bayesian framework.
 
 Author of the Mathematica notebook file:
 Dr Ganna Rozhnova 
