@@ -1,5 +1,5 @@
 # COVID19-Portugal
-The impact of social distancing on the COVID19 epidemic in Portugal
+The impact of social distancing on the COVID-19 epidemic in Portugal
 
 In this repository, I share my model code reproducing the results and figures in the article published in X (to be filled in). 
 The basic model is taken from the manuscript published on MedRxiv "Impact of self-imposed prevention measures and short-term 
