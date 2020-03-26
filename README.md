@@ -16,7 +16,7 @@ https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
 
 and coded in Mathematica 10.0.2.0 on Mac OS X El Capitan, Version 10.11.5. 
 
-The purpose of the model is to demonstrate that stringent social distancing measures can reduce the number of COVID-19 cases with severe symptoms and can buy time for the healthcare system and other government institutions to prepare for controling the COVID-19 epidemic in Portugal. The basic reproduction number, the initial number of infected and exposed individuals were obtained by the least squares fit of the model to the data (not shown). Note that in future, when more data become available, the model parameters should be estimated using e.g. Bayesian framework.
+The purpose of the model is to demonstrate that stringent social distancing measures can reduce the number of COVID-19 cases with severe symptoms and can buy time for the healthcare system and other government institutions to prepare for controling the COVID-19 epidemic in Portugal. The basic reproduction number, the initial number of infected and exposed individuals and the contact rate reduction were obtained by the least squares fit of the model to the data (not shown). Note that in future, when more data become available, the model parameters should be estimated using e.g. Bayesian framework.
 
 Author of the Mathematica notebook file:
 Dr Ganna Rozhnova 
